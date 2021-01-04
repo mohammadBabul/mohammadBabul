@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**mohammadBabul/mohammadBabul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Software R&D at walton mobile
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on mobile application solutions
+- 🤔 I’m looking for help with Mobile architecture design pattern
+- 💬 Ask me about about technical solutions
+- 📫 How to reach me: babul.sust.cse@gmail.com
+- 😄 Pronouns: Babul
+- ⚡ Fun fact: Friendly people 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Actively Working 
+<a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"></a>
