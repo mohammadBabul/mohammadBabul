@@ -12,4 +12,5 @@
 
 
 #### Actively Working 
-<a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"></a>
+
+<img style="-webkit-user-select: none;margin: auto;" src="https://lh3.googleusercontent.com/ryIutStXIBiSNQcsjJJaB9OcbwxGBj5i5pZ5TAoe4xyzM530M7JuTa_2CQeDwHjvlk_k0Lw=s137">
